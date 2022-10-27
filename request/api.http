@@ -1,0 +1,6 @@
+POST http://localhost:8080/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.amazon.com.tr/HP-Z5000-BLUETOOTH-SILVER-2HW67AA/dp/B075T6KS9C/ref=sr_1_2_sspa?keywords=mouse&qid=1666871385&qu=eyJxc2MiOiI4LjA0IiwicXNhIjoiNy42NiIsInFzcCI6IjcuMDEifQ%3D%3D&s=electronics&sr=1-2-spons&psc=1"
+}
